@@ -1,15 +1,11 @@
 import React from "react";
 import Head from "next/head";
 import Image from "next/image";
-import Hand from "@/public/assets/hand.png";
-import Locker from "@/public/assets/locker.png";
+
 import Footer from "@/components/Footer/Footer";
 import ClaimNft from "@/components/Button/ClaimNft";
 import Navbar1 from "@/components/Navbar/Navbar1";
-import curve1 from "@/public/assets/curve1.png";
-import curve2 from "@/public/assets/curve2.png";
-import curve3 from "@/public/assets/curve3.png";
-import curve4 from "@/public/assets/curve4.jpg"
+
 import { Video3 } from "@/components/Livepeer";
 
 function Docs() {
@@ -18,7 +14,7 @@ function Docs() {
 
   return (
     <>
-    <Head>
+      <Head>
         <title>Crypto DeFi Yield Strategies?</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -27,12 +23,14 @@ function Docs() {
       <div className="flex flex-col space-y-48 items-center justify-center mt-10 md:mt-24 p-4">
         <div className="text-center space-y-4">
           <h1 className="text-4xl font-Manrope md:text-6xl font-extrabold text-white">
-          Crypto DeFi Yield Strategies?
+            Crypto DeFi Yield Strategies?
           </h1>
           <div className="flex flex-wrap items-center justify-evenly p-8 md:p-10 ">
             <p className="text-gray-400 leading-loose text-left w-full md:w-1/2 lg:w-1/3 text-xl p-4">
-            Whats crypto?
-            Cryptocurrency, or crypto, is a digital form of currency secured by cryptography and operates on decentralized networks like blockchain, enabling secure peer-to-peer transactions without intermediaries.
+              Whats crypto? Cryptocurrency, or crypto, is a digital form of
+              currency secured by cryptography and operates on decentralized
+              networks like blockchain, enabling secure peer-to-peer
+              transactions without intermediaries.
             </p>
             <div className="md:w-96 flex items-center justify-center">
               <Image
@@ -65,7 +63,10 @@ function Docs() {
               />
             </div>
             <p className="text-gray-400 leading-loose text-left md:text-right w-full md:w-1/2 lg:w-1/3 text-xl p-4">
-            Blockchain is a secure and transparent digital ledger technology that records transactions across multiple computers. It forms a chain of blocks, each containing cryptographic information linking it to the previous one.
+              Blockchain is a secure and transparent digital ledger technology
+              that records transactions across multiple computers. It forms a
+              chain of blocks, each containing cryptographic information linking
+              it to the previous one.
             </p>
           </div>
         </div>
@@ -76,7 +77,11 @@ function Docs() {
           </h1>
           <div className="flex flex-wrap items-center justify-evenly p-8 md:p-10 ">
             <p className="text-gray-400 leading-loose text-left w-full md:w-1/2 lg:w-1/3 text-xl p-4">
-            DeFi, or Decentralized Finance, refers to a set of financial services and applications built on blockchain technology that aims to replace traditional financial intermediaries with smart contracts, allowing for permissionless and trustless transactions, lending, borrowing, and trading.
+              DeFi, or Decentralized Finance, refers to a set of financial
+              services and applications built on blockchain technology that aims
+              to replace traditional financial intermediaries with smart
+              contracts, allowing for permissionless and trustless transactions,
+              lending, borrowing, and trading.
             </p>
             <div className="md:w-auto  flex items-center justify-center">
               <Image
@@ -91,8 +96,6 @@ function Docs() {
             </div>
           </div>
         </div>
-
-        
       </div>
       <div
         className="flex justify-center w-[80%] h-[550px] mx-auto mb-3 mt-36"
