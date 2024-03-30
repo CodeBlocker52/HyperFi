@@ -7,20 +7,20 @@ const Hero = () => {
     <>
       <main className="relative flex flex-col  text-white align-middle my-16 z-50 ">
         <h2 className="font-DM_Sans text-[#ffffff99] my-10 mx-auto">
-          WELCOME TO SAAVE
+          WELCOME TO HyperFi
         </h2>
         <h1
           className={`text-8xl text-white mx-auto font-extrabold font-[Inter] ${styles.heading}`}
         >
-          The Internet of
+          The Defi for
         </h1>
         <h1
           className={`text-8xl text-white mx-auto font-extrabold font-[Inter] ${styles.heading}`}
         >
-          Blockchain
+          Everyone
         </h1>
         <p className="font-DM_Sans my-10  mx-auto w-[50%] text-[#ffffffaf] text-center">
-        Welcome to SAAVE FINANCE, designed to provide an easy and simple way for beginners to enter the world of decentralized finance. Our protocol offers a user-friendly interface that allows you to track your profits in real-time, making it easy to manage your investments.
+        Welcome to HyperFi, designed to provide an easy and simple way for beginners to enter the world of decentralized finance. Our protocol offers a user-friendly interface that allows you to track your profits in real-time, making it easy to manage your investments.
         </p>
       </main>
       <div className="absolute z-1 h-10 bottom-52 -right-20">
