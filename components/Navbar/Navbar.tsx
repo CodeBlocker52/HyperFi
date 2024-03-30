@@ -48,13 +48,13 @@ export default function Example() {
                   />
                   <Image
                     className="hidden h-12 w-auto lg:block cursor-pointer"
-                    src={Saave.src}
+                    src={HyperFi.src}
                     alt="Your Company"
                     width={200}
                     height={100}
                     onClick={() => router.push("/")}
                   />
-                  <div className="text-white text-xl font-extrabold">SAAVE</div>
+                  <div className="text-white text-xl font-extrabold">HyperFi</div>
                 </div>
 
                 <div className="hidden w-full sm:ml-6 sm:flex sm:items-center sm:justify-center">
