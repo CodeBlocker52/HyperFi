@@ -20,17 +20,22 @@ HyperFi is a decentralized finance (DeFi) platform aimed at simplifying financia
 
 - Trivago of Exchanges: HyperFi acts as an Aggregator that scans some of top  Exchanges and provides the list of the APY of all exchanges and lets the user decide in which exchange their money should be staked/ invested with a power index for each exchange.
 
-## Contract Deployements:
+## Sponsor Alignment
 
-### On Polygon Cardano
- https://cardona-zkevm.polygonscan.com/tx/0x10693118adc946b1e680bdf1da090e94305774bcb4b68f9429fc30d73977a04a
+- **Ethereum Foundation:** Privacy and DeFi tracks
+- **Avail:** Avail-Powered Rollup track
+- **Anon Aadhar:** Privacy and DeFi tracks
+- **BuidlGuidl Scaffold:** General track
+- **The Graph:** General track
+- **Polygon:** Polygon Cardona
+
+## Contract Deployments:
+
+### Polygon Cardano: 
+https://cardona-zkevm.polygonscan.com/tx/0x10693118adc946b1e680bdf1da090e94305774bcb4b68f9429fc30d73977a04a
  
-### On Op Avail Sepolia
+### Avail-powered Rollup:
 https://op-avail-sepolia-explorer.alt.technology/address/0xc2c726E2b6fDEA182500326Ba0cAd034f8c59260
 
-### On Xlumio Testnet
+### Lumio Testnet:
 https://explorer.testnet.lumio.io/address/0xcC083dc4B4fA3B8d713b04caAC1CEB032F369E7B?tab=txs
-
-
-
-
