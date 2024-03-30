@@ -39,3 +39,13 @@ https://op-avail-sepolia-explorer.alt.technology/address/0xc2c726E2b6fDEA1825003
 
 ### Lumio Testnet:
 https://explorer.testnet.lumio.io/address/0xcC083dc4B4fA3B8d713b04caAC1CEB032F369E7B?tab=txs
+
+### Subgraph:
+PRODUCTION QUERY URL (ARBITRUM SEPOLIA)
+https://gateway-testnet-arbitrum.network.thegraph.com/api/[api-key]/subgraphs/id/JBZfGX5pWpya4HJHkY54EcjQe1tJhNfszDTbjZGjgGjV⁠
+
+DEVELOPMENT QUERY URL - LATEST VERSION
+https://api.studio.thegraph.com/query/69595/hyperfisub/version/latest⁠
+
+DEVELOPMENT QUERY URL - SELECTED VERSION
+https://api.studio.thegraph.com/query/69595/hyperfisub/v0.0.1⁠
