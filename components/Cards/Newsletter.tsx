@@ -16,9 +16,8 @@ function Newsletter() {
           Subscribe To Our Newsletter
         </h1>
         <p className="text-black w-[70%] font-medium text-center ">
-          Although I’m not currently looking for any new opportunities, my inbox
-          is always open. Whether you have a question or just want to say hi,
-          I’ll try my best to get back to you!
+        Whether you have a question or just want to say hi,
+          Try to reach out to me my best to get back to you!
         </p>
         <div className="m-4 p-1 rounded-full w-1/2 md:w-1/3 bg-transparent border-2 border-black flex">
           <label htmlFor="email" className="sr-only">
