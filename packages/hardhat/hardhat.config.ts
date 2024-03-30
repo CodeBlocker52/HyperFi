@@ -31,12 +31,6 @@ const config: HardhatUserConfig = {
     },
   },
   defaultNetwork: "localhost",
-  namedAccounts: {
-    deployer: {
-      // By default, it will take the first Hardhat account as the deployer
-      default: 0,
-    },
-  },
   networks: {
     // View the networks that are pre-configured.
     // If the network you are looking for is not here you can add new network settings
@@ -103,6 +97,11 @@ const config: HardhatUserConfig = {
   },
   sourcify: {
     enabled: false,
+  },
+  namedAccounts: {
+    deployer: {
+      default: 0,
+    },
   },
 };
 
