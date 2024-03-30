@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 import "./curveActions.sol";
-import "./AAVEActions.sol";
+import "./HyperFiActions.sol";
 
 //we need this contract because curve Gauge distributes rewards every time the user deposits or withdraws LP Tokens.
 //This is a problem if we have only 1 contract, it would be hard to track how much each user deserves.
