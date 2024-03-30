@@ -12,7 +12,7 @@ const Navbar1 = () => {
         <div className="flex my-auto">
           <Link href="/">
             {/* <Image src={Logo} alt={"nav-logo"} className=" w-14" /> */}
-            <h2 className="text-xl font-bold pb-1  ">SAAVE</h2>
+            <h2 className="text-xl font-bold pb-1  ">HyperFi</h2>
           </Link>
         </div>
         <div className="flex justify-around my-auto ml-16 text-[#ffffffec]">
