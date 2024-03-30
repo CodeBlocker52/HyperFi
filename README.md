@@ -19,3 +19,18 @@ HyperFi is a decentralized finance (DeFi) platform aimed at simplifying financia
 - Compounder Calculator: The Platform offers it users to calculate the growth of their investment for the duration.
 
 - Trivago of Exchanges: HyperFi acts as an Aggregator that scans some of top  Exchanges and provides the list of the APY of all exchanges and lets the user decide in which exchange their money should be staked/ invested with a power index for each exchange.
+
+## Contract Deployements:
+
+### On Polygon Cardano
+ https://cardona-zkevm.polygonscan.com/tx/0x10693118adc946b1e680bdf1da090e94305774bcb4b68f9429fc30d73977a04a
+ 
+### On Op Avail Sepolia
+https://op-avail-sepolia-explorer.alt.technology/address/0xc2c726E2b6fDEA182500326Ba0cAd034f8c59260
+
+### On Xlumio Testnet
+https://explorer.testnet.lumio.io/address/0xcC083dc4B4fA3B8d713b04caAC1CEB032F369E7B?tab=txs
+
+
+
+
