@@ -49,3 +49,12 @@ https://api.studio.thegraph.com/query/69595/hyperfisub/version/latest⁠
 
 DEVELOPMENT QUERY URL - SELECTED VERSION
 https://api.studio.thegraph.com/query/69595/hyperfisub/v0.0.1⁠
+
+## User Flow:
+<img width="341" alt="Screenshot 2024-03-31 094751" src="https://github.com/CodeBlocker52/HyperFi/assets/69464744/99406b1c-d8d9-425c-b1f0-e0a8675e0602">
+
+## Deposit and Withdraw Logic:
+<img width="556" alt="Screenshot 2024-03-31 030127" src="https://github.com/CodeBlocker52/HyperFi/assets/69464744/4e3cb7d7-879c-4c25-92f6-11d432901bd1">
+
+## Yield Strategy and Aggregator Farming:
+![gallery](https://github.com/CodeBlocker52/HyperFi/assets/69464744/5e668462-2bd2-4a9c-9b65-3e9dbcba17f3)
