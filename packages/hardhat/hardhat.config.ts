@@ -80,6 +80,10 @@ const config: HardhatUserConfig = {
       accounts: [process.env.WALLET_KEY as string],
       gasPrice: 3000000000,
     },
+"avail-op-testnet" :{
+url:"https://op-avail-sepolia.alt.technology"
+  accounts: [process.env.WALLET_KEY as string],
+      gasPrice: 3000000000,
 
   
     
