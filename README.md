@@ -2,6 +2,8 @@
 
 HyperFi is a decentralized finance (DeFi) platform aimed at simplifying financial transactions and empowering users with innovative yield farming and aggregation strategies. Our project is aligned with the Ethereum Foundation, Avail, Anon Aadhar, BuidlGuidl Scaffold, The Graph and Polygon to address different aspects of the blockchain and DeFi space.
 
+---
+
 ## Features
 
 - User-Centric Approach: Tailored for users seeking financial protection in high-inflation economies.
@@ -20,6 +22,8 @@ HyperFi is a decentralized finance (DeFi) platform aimed at simplifying financia
 
 - Trivago of Exchanges: HyperFi acts as an Aggregator that scans some of top  Exchanges and provides the list of the APY of all exchanges and lets the user decide in which exchange their money should be staked/ invested with a power index for each exchange.
 
+---
+
 ## Sponsor Alignment
 
 - **Ethereum Foundation:** Privacy and DeFi tracks
@@ -28,6 +32,8 @@ HyperFi is a decentralized finance (DeFi) platform aimed at simplifying financia
 - **BuidlGuidl Scaffold:** General track
 - **The Graph:** General track
 - **Polygon:** Polygon Cardona
+
+---
 
 ## Contract Deployments:
 
@@ -49,6 +55,8 @@ https://api.studio.thegraph.com/query/69595/hyperfisub/version/latest⁠
 
 DEVELOPMENT QUERY URL - SELECTED VERSION
 https://api.studio.thegraph.com/query/69595/hyperfisub/v0.0.1⁠
+
+---
 
 ## User Flow:
 <img width="341" alt="Screenshot 2024-03-31 094751" src="https://github.com/CodeBlocker52/HyperFi/assets/69464744/99406b1c-d8d9-425c-b1f0-e0a8675e0602">
